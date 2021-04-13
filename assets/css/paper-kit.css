@@ -3203,31 +3203,37 @@ blockquote small {
   color: #DDDDDD;
 }
 
+.text-bright,
+.text-bright:hover {
+  color:#0D84A2 !important;
+}
+
 .text-primary,
 .text-primary:hover {
-  color: #51cbce !important;
+  color: #56BFAC !important;
 }
 
 .text-info,
 .text-info:hover {
-  color: #51bcda !important;
+  color: #73266E !important;
 }
 
 .text-success,
 .text-success:hover {
-  color: #6bd098 !important;
+  color: #D0EFF2 !important;
 }
 
 .text-warning,
 .text-warning:hover {
-  color: #fbc658 !important;
+  color: #BF8275 !important;
 }
 
 .text-danger,
 .text-danger:hover {
-  color: #f5593d !important;
+  color: #0D84A2 !important;
 }
 
+.glyphicon {
 .glyphicon {
   line-height: 1;
 }
@@ -3414,23 +3420,23 @@ input[type="file"]>input[type="button"]::-moz-focus-inner {
 }
 
 .bg-primary {
-  background-color: #6dd3d6 !important;
+  background-color: #56BFAC !important;
 }
 
 .bg-info {
-  background-color: #6ec7e0 !important;
+  background-color: #73266E !important;
 }
 
 .bg-success {
-  background-color: #86d9ab !important;
+  background-color: #D0EFF2 !important;
 }
 
 .bg-warning {
-  background-color: #fcd27b !important;
+  background-color: #BR8275 !important;
 }
 
 .bg-danger {
-  background-color: #f7765f !important;
+  background-color: #0D84A2 !important;
 }
 
 .wrapper {
@@ -4900,27 +4906,27 @@ License - nucleoapp.com/license/
 
 .dropdown-menu.dropdown-primary .dropdown-item:hover,
 .dropdown-menu.dropdown-primary .dropdown-item:focus {
-  background-color: #6dd3d6;
+  background-color: #56BFAC;
 }
 
 .dropdown-menu.dropdown-info .dropdown-item:hover,
 .dropdown-menu.dropdown-info .dropdown-item:focus {
-  background-color: #6ec7e0;
+  background-color: #73266E;
 }
 
 .dropdown-menu.dropdown-success .dropdown-item:hover,
 .dropdown-menu.dropdown-success .dropdown-item:focus {
-  background-color: #86d9ab;
+  background-color: #D0EFF2;
 }
 
 .dropdown-menu.dropdown-warning .dropdown-item:hover,
 .dropdown-menu.dropdown-warning .dropdown-item:focus {
-  background-color: #fcd27b;
+  background-color: #BR8275;
 }
 
 .dropdown-menu.dropdown-danger .dropdown-item:hover,
 .dropdown-menu.dropdown-danger .dropdown-item:focus {
-  background-color: #f7765f;
+  background-color: #0D84A2;
 }
 
 .dropdown-divider {
@@ -4989,19 +4995,19 @@ License - nucleoapp.com/license/
 }
 
 .alert-info {
-  background-color: #6ec7e0;
+  background-color: #73266E;
 }
 
 .alert-success {
-  background-color: #86d9ab;
+  background-color: #D0EFF2;
 }
 
 .alert-warning {
-  background-color: #fcd27b;
+  background-color: #BR8275;
 }
 
 .alert-danger {
-  background-color: #f7765f;
+  background-color: #0D84A2;
 }
 
 .img-rounded {
@@ -5263,7 +5269,7 @@ License - nucleoapp.com/license/
 }
 
 .popover.bottom .arrow:after {
-  border-bottom-color: #f7765f;
+  border-bottom-color: #0D84A2;
 }
 
 .popover-filter {
@@ -5288,20 +5294,20 @@ License - nucleoapp.com/license/
 }
 
 .popover.left>.arrow::after {
-  border-left-color: #f7765f;
+  border-left-color: #0D84A2;
   bottom: -20px;
 }
 
 .popover.top>.arrow::after {
-  border-top-color: #f7765f;
+  border-top-color: #0D84A2;
 }
 
 .popover.right>.arrow::after {
-  border-right-color: #f7765f;
+  border-right-color: #0D84A2;
 }
 
 .popover.left::before {
-  border-left-color: #f7765f;
+  border-left-color: #0D84A2;
   bottom: -20px;
 }
 
@@ -5313,168 +5319,168 @@ License - nucleoapp.com/license/
 }
 
 .popover-primary {
-  background-color: #6dd3d6;
+  background-color: #56BFAC;
   color: #FFFFFF;
 }
 
 .popover-primary .popover-title {
-  background-color: #6dd3d6;
+  background-color: #56BFAC;
   color: rgba(0, 0, 0, 0.56);
 }
 
 .popover-primary.bottom .arrow:after {
-  border-bottom-color: #6dd3d6;
+  border-bottom-color: #56BFAC;
 }
 
 .popover-primary.left>.arrow::after {
-  border-left-color: #6dd3d6;
+  border-left-color: #56BFAC;
 }
 
 .popover-primary.top>.arrow::after {
-  border-top-color: #6dd3d6;
+  border-top-color: #56BFAC;
 }
 
 .popover-primary.right>.arrow::after {
-  border-right-color: #6dd3d6;
+  border-right-color: #56BFAC;
 }
 
 .popover-info {
-  background-color: #6ec7e0;
+  background-color: #73266E;
   color: #FFFFFF;
 }
 
 .popover-info .popover-title {
-  background-color: #6ec7e0;
+  background-color: #73266E;
   color: rgba(0, 0, 0, 0.56);
 }
 
 .popover-info.bottom .arrow:after {
-  border-bottom-color: #6ec7e0;
+  border-bottom-color: #73266E;
 }
 
 .popover-info.left>.arrow::after {
-  border-left-color: #6ec7e0;
+  border-left-color: #73266E;
 }
 
 .popover-info.top>.arrow::after {
-  border-top-color: #6ec7e0;
+  border-top-color: #73266E;
 }
 
 .popover-info.right>.arrow::after {
-  border-right-color: #6ec7e0;
+  border-right-color: #73266E;
 }
 
 .popover-success {
-  background-color: #86d9ab;
+  background-color: #D0EFF2;
   color: #FFFFFF;
 }
 
 .popover-success .popover-title {
-  background-color: #86d9ab;
+  background-color: #D0EFF2;
   color: rgba(0, 0, 0, 0.56);
 }
 
 .popover-success.bottom .arrow:after {
-  border-bottom-color: #86d9ab;
+  border-bottom-color: #D0EFF2;
 }
 
 .popover-success.left>.arrow::after {
-  border-left-color: #86d9ab;
+  border-left-color: #D0EFF2;
 }
 
 .popover-success.top>.arrow::after {
-  border-top-color: #86d9ab;
+  border-top-color: #D0EFF2;
 }
 
 .popover-success.right>.arrow::after {
-  border-right-color: #86d9ab;
+  border-right-color: #D0EFF2;
 }
 
 .popover-warning {
-  background-color: #fcd27b;
+  background-color: #BR8275;
   color: #FFFFFF;
 }
 
 .popover-warning .popover-title {
-  background-color: #fcd27b;
+  background-color: #BR8275;
   color: rgba(0, 0, 0, 0.56);
 }
 
 .popover-warning.bottom .arrow:after {
-  border-bottom-color: #fcd27b;
+  border-bottom-color: #BR8275;
 }
 
 .popover-warning.left>.arrow::after {
-  border-left-color: #fcd27b;
+  border-left-color: #BR8275;
 }
 
 .popover-warning.top>.arrow::after {
-  border-top-color: #fcd27b;
+  border-top-color: #BR8275;
 }
 
 .popover-warning.right>.arrow::after {
-  border-right-color: #fcd27b;
+  border-right-color: #BR8275;
 }
 
 .popover-danger {
-  background-color: #f7765f;
+  background-color: #0D84A2;
   color: #FFFFFF;
 }
 
 .popover-danger .popover-title {
-  background-color: #f7765f;
+  background-color: #0D84A2;
   color: rgba(0, 0, 0, 0.56);
 }
 
 .popover-danger.bottom .arrow:after {
-  border-bottom-color: #f7765f;
+  border-bottom-color: #0D84A2;
 }
 
 .popover-danger.left>.arrow::after {
-  border-left-color: #f7765f;
+  border-left-color: #0D84A2;
 }
 
 .popover-danger.top>.arrow::after {
-  border-top-color: #f7765f;
+  border-top-color: #0D84A2;
 }
 
 .popover-danger.right>.arrow::after {
-  border-right-color: #f7765f;
+  border-right-color: #0D84A2;
 }
 
 .popover-primary.bs-tether-element-attached-bottom::after,
 .popover-primary.bs-tether-element-attached-bottom::before,
 .popover-primary.popover-top::after,
 .popover-primary.popover-top::before {
-  border-top-color: #6dd3d6 !important;
+  border-top-color: #56BFAC !important;
 }
 
 .popover.popover-info.bs-tether-element-attached-top::after,
 .popover.popover-info.popover-bottom::after,
 .popover.popover-info.bs-tether-element-attached-top::before,
 .popover.popover-info.popover-bottom::before {
-  border-bottom-color: #6ec7e0 !important;
+  border-bottom-color: #73266E !important;
 }
 
 .popover-success.bs-tether-element-attached-left::after,
 .popover-success.bs-tether-element-attached-left::before,
 .popover-success.popover-right::after,
 .popover-success.popover-right::before {
-  border-right-color: #86d9ab !important;
+  border-right-color: #D0EFF2 !important;
 }
 
 .popover.popover-warning.bs-tether-element-attached-right::after,
 .popover.popover-warning.bs-tether-element-attached-right::before,
 .popover.popover-warning.popover-left::after,
 .popover.popover-warning.popover-left::before {
-  border-left-color: #fcd27b !important;
+  border-left-color: #BR8275 !important;
 }
 
 .popover.popover-danger.bs-tether-element-attached-right::after,
 .popover.popover-danger.bs-tether-element-attached-right::before,
 .popover.popover-danger.popover-left::after,
 .popover.popover-danger.popover-left::before {
-  border-left-color: #f7765f !important;
+  border-left-color: #0D84A2 !important;
 }
 
 .popover.bs-tether-element-attached-top::after,
@@ -6447,15 +6453,15 @@ License - nucleoapp.com/license/
 }
 
 .card[data-color="blue"] {
-  background: #6ec7e0;
+  background: #73266E;
 }
 
 .card[data-color="green"] {
-  background: #86d9ab;
+  background: #D0EFF2;
 }
 
 .card[data-color="yellow"] {
-  background: #fcd27b;
+  background: #BR8275;
 }
 
 .card[data-color="brown"] {
